@@ -1,6 +1,6 @@
 <?php
 /**
- * NewsJust Child Theme functions
+ * JustNews Child Theme functions
  */
 
 add_action( 'wp_enqueue_scripts', function () {
